@@ -20,7 +20,7 @@ body {
    padding: 15px 30px;
    font-size: 1.2em;
    color: white;
-   background-color: #4a90e2;
+   background-color:#57e24a;
    border: none;
    border-radius: 10px;
    cursor: pointer;
@@ -28,7 +28,7 @@ body {
  }
 
  button:hover {
-   background-color: #357ab8;
+   background-color: #57e24a;
  }
 
  footer {
